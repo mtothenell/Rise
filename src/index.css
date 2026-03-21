@@ -8,5 +8,11 @@ body,
 
 body {
   margin: 0;
-  font-family: "Segoe UI", "Inter", ui-sans-serif, system-ui, sans-serif;
+  background: #08111f;
+  color: #f8fafc;
+  font-family: "Bradley Hand", "Segoe Print", "Comic Sans MS", cursive;
+}
+
+* {
+  box-sizing: border-box;
 }
